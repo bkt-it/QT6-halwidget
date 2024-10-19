@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/debug.svg</file>
+        <file>icons/emergency-stop</file>
+        <file>icons/move_down.svg</file>
+        <file>icons/move_left.svg</file>
+        <file>icons/move_left_down.svg</file>
+        <file>icons/move_left_up.svg</file>
+        <file>icons/move_right.svg</file>
+        <file>icons/move_right_down.svg</file>
+        <file>icons/move_right_up.svg</file>
+        <file>icons/move_up.svg</file>
+        <file>icons/zoom_extend.svg</file>
+        <file>icons/zoom_min.svg</file>
+        <file>icons/zoom_plus.svg</file>
+        <file>icons/zoom_window.svg</file>
+    </qresource>
+</RCC>
